@@ -1,1 +1,0 @@
-# Rotten-Tomatoes-Audience-Rating-Prediction
